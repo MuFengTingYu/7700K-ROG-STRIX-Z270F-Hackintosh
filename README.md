@@ -1,5 +1,5 @@
 # 7700K-ROG-STRIX-Z270F-Hackintosh
-7700K+ROG STRIX Z270F GAMING Hackintosh with opencore
+7700K+ROG STRIX Z270F GAMING Hackintosh with OpenCore
 ### EFI及系统支持
 - OpenCore：0.7.4  
 - MacOS：Catalina
