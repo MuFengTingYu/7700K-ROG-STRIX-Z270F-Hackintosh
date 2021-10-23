@@ -8,7 +8,7 @@
 | Component  | Model |
 | ------------- | ------------- |
 | CPU  | i7 7700K  |
-| ASUS  | ROG Strix Z270F Gaming   #|
+| ASUS  | ROG Strix Z270F Gaming |
 | Memory |  GALAXY HOF 3000MHZ |
 | Storage | Kingston  SA400S37120G |
 | GPU | Intel HD 630 |
